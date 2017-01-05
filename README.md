@@ -1,2 +1,2 @@
 # hello-world
-Folloe thr primer...
+Follow the primer... then spellcheck!
